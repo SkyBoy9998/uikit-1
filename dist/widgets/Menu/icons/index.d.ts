@@ -33,3 +33,4 @@ export { default as LiquidityIcon } from "./Liquidity";
 export { default as DiscordIcon } from "./Discord";
 export { default as ReferralIcon } from "./Referral";
 export { default as GithubIcon } from "./Github";
+export { default as FenixIcon } from "./Fenix";
